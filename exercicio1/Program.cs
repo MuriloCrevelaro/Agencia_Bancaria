@@ -3,6 +3,7 @@ Deverá ser exibido na tela “Gastos dentro do orçamento” caso o valor gasto
  não ultrapasse o valor do salário e “Orçamento estourado” se o valor gasto ultrapassar o valor do salário. */
 int salario, gastos;
 
+
 Console.WriteLine("Qual o seu salario");
 salario = int.Parse(Console.ReadLine());
 
