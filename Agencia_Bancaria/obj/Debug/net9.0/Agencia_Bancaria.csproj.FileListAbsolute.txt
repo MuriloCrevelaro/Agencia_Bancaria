@@ -12,3 +12,4 @@ C:\Users\43376666806\Desktop\Back_End_T\Agencia_Bancaria\obj\Debug\net9.0\refint
 C:\Users\43376666806\Desktop\Back_End_T\Agencia_Bancaria\obj\Debug\net9.0\Agencia_Bancaria.pdb
 C:\Users\43376666806\Desktop\Back_End_T\Agencia_Bancaria\obj\Debug\net9.0\Agencia_Bancaria.genruntimeconfig.cache
 C:\Users\43376666806\Desktop\Back_End_T\Agencia_Bancaria\obj\Debug\net9.0\ref\Agencia_Bancaria.dll
+C:\Users\43376666806\Desktop\Back_End_T\Agencia_Bancaria\obj\Debug\net9.0\Agencia_Bancaria.sourcelink.json

@@ -156,10 +156,10 @@ void Transferir()
    Console.WriteLine("----------------------------------------------------------------");
     Console.WriteLine($"Selecione qual cliente fez a transferencia");
     Console.WriteLine("----------------------------------------------------------------");
-    for (int i = 0; i < totalClientes; i++)
+    for (int i = 0; i < totalCLientes; i++)
     {
         Console.WriteLine("----------------------------------------------------------------");
-        Console.WriteLine($"{i + 1} - {nomes[i]} - {idades[i]} anos - Deposito Atual: R$:{saldo[i]}");
+        Console.WriteLine($"{i + 1} - {nomes[i]} - Deposito Atual: R$:{saldo[i]}");
         Console.WriteLine("----------------------------------------------------------------");
         Console.WriteLine();
         Thread.Sleep(1000);
@@ -206,7 +206,7 @@ void Lista()
     for (int i = 0; i < nomes.Length; i++)
     {
         Console.Write($"{i + 1} - Nome: {nomes[i]} |");
-        Console.WriteLine($"Saldo: {saldo[i]}");
+        Console.WriteLine($"Saldo: {saldo[i]: F2}");//O F2 Serve para limitar a quantidade de casas decimais aparecem
         Console.WriteLine();//pula uma linha
     }
 
