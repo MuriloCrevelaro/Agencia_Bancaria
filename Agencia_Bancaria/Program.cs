@@ -47,11 +47,11 @@ do
             Lista();
             break;
         default:
-            Console.WriteLine("Opção invalida! Clique <Enter> para continuar");
+            Console.WriteLine("Opção invalida!");
             break;
     }
 
-    Console.WriteLine("Clique em <Enter> para continuar...");
+    Console.WriteLine("Presione <Enter> para continuar...");
     Console.ReadLine();
 
 
@@ -66,7 +66,6 @@ void Cad()
     if (totalCLientes >= 3)
     {
         Console.WriteLine($"Limite de ocupação atingido");
-        Console.WriteLine($"Pressione <Enter> para continuar ...");
         return;
     }
 
@@ -82,8 +81,6 @@ void Cad()
 
     Console.WriteLine($"Aluno cadastrado com sucesso");
     Console.WriteLine($"Há {totalCLientes} clientes(s) cadastrado(s) no sistema!");
-    Console.WriteLine($"Pressione <Enter> para continuar");
-    Console.ReadLine();//parar o sistema e esperar o usuário dar um <Enter>
 
 }
 void Dep()
@@ -147,8 +144,6 @@ void Sac()
     if (saldo[id] >= ValorSacado)
     {
         Console.WriteLine($"Saque de R${ValorSacado} realizado!");
-        Console.WriteLine("Clique em <Enter> para continuar...");
-        Console.ReadLine();
     }
     else
     {
@@ -214,9 +209,6 @@ void Lista()
         Console.WriteLine($"Saldo: {saldo[i]}");
         Console.WriteLine();//pula uma linha
     }
-
-    Console.WriteLine($"Pressione <Enter> para continuar ...");
-    Console.ReadLine();
 
 }
 int BuscarCliente()
