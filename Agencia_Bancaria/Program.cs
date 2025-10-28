@@ -206,7 +206,7 @@ void Lista()
     for (int i = 0; i < nomes.Length; i++)
     {
         Console.Write($"{i + 1} - Nome: {nomes[i]} |");
-        Console.WriteLine($"Saldo: {saldo[i]: F2}");//O F2 Serve para limitar a quantidade de casas decimais aparecem
+        Console.WriteLine($"Saldo: {saldo[i]: F2}");//O F2 Serve para limitar a quantidade de casas decimais apare
         Console.WriteLine();//pula uma linha
     }
 
