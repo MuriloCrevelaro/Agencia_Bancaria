@@ -1,0 +1,5 @@
+C:\Users\43376666806\Desktop\Back_End_T\POO\ExerciciosMetodoConstrutor\obj\Debug\net9.0\ExerciciosMetodoConstrutor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\43376666806\Desktop\Back_End_T\POO\ExerciciosMetodoConstrutor\obj\Debug\net9.0\ExerciciosMetodoConstrutor.AssemblyInfoInputs.cache
+C:\Users\43376666806\Desktop\Back_End_T\POO\ExerciciosMetodoConstrutor\obj\Debug\net9.0\ExerciciosMetodoConstrutor.AssemblyInfo.cs
+C:\Users\43376666806\Desktop\Back_End_T\POO\ExerciciosMetodoConstrutor\obj\Debug\net9.0\ExerciciosMetodoConstrutor.csproj.CoreCompileInputs.cache
+C:\Users\43376666806\Desktop\Back_End_T\POO\ExerciciosMetodoConstrutor\obj\Debug\net9.0\ExerciciosMetodoConstrutor.sourcelink.json
